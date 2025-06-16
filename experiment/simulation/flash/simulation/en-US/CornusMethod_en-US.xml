@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="CornusMethod.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_BREADTH">
+        <source>Breadth:</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_FROM_KNIFEEDGE">
+        <source>Distance:</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_HORIZONTAL">
+        <source>Horizontal Position:</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_LIGHT_SOURCE">
+        <source>Light Source:</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_LIGHTOFF">
+        <source>Light Off</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_LIGHTON">
+        <source>Light On</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_MASS">
+        <source>Mass:</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_MICROSCOPE">
+        <source>Microscope:</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_PERPEXBAR">
+        <source>Perspex bar:</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_RADIUS_LENS">
+        <source>Radius of Lens:</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SODIUM">
+        <source>Sodium</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_THICKNESS">
+        <source>Thickness:</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_VERTICAL">
+        <source>Vertical Position:</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_WEIGHTRINGS">
+        <source>Weight Rings:</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
