@@ -3,9 +3,64 @@
 <head>
 	<!-- Add CSS at the head of HTML file -->
     <link rel="stylesheet" href="./css/main.css">
+
 </head>
 <body>
-		<!-- Your code goes here-->
+
+
+<div class="download-section" style="text-align: center;">
+    <a href="flash/flashplayer.exe" class="download-link" download>
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="white" viewBox="0 0 16 16">
+        <path d="M.5 9.9V14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V9.9a.5.5 0 0 0-1 0V14H1V9.9a.5.5 0 0 0-1 0z"/>
+        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+      </svg>
+      Download Flash Player
+    </a>
+    <!-- <img src="./flash/figure1.jpg" alt="Flash Player Illustration"> -->
+  </div>
+
+	<div class="copy-container">
+    <p><h4>Flash Content link: </h4> </p>
+  <span class="link-text" id="copyText">https://virtual-labs.github.io/exp-franck-hertz-amrt/simulation/flash/simulation/index.swf</span>
+  <div class="copy-icon" onclick="copyLink()">
+    📋
+  </div>
+  <div class="tooltip" id="tooltip">Copied!</div>
+</div><br><br>
+
+<h3>Instructions to run the Flash simulator on your system:</h3>
+<div class="accordion">
+  <!-- Windows Accordion -->
+  <div class="accordion-item">
+    <div class="accordion-header" onclick="toggleAccordion(this)">
+      ▶ Windows system
+    </div>
+    <div class="accordion-body">
+      <div><strong>Step 1:</strong> Open Flash Player<br><img src="images/figure1.jpg" alt="Flash Debugger"></div>
+      <div><strong>Step 2:</strong> Copy the Flash content link by clicking the 📋 icon provided above.</div>
+      <div><strong>Step 3:</strong> Click <em>File → Open</em> from the Flash Player menu.</div>
+      <div><strong>Step 4:</strong> Paste the Flash content link in the Open window of the Flash Player and click the OK button.<br><img src="images/figure2.jpg" alt="Open Flash Link"></div>
+    </div>
+  </div>
+
+  <!-- Linux Accordion -->
+  <div class="accordion-item">
+    <div class="accordion-header" onclick="toggleAccordion(this)">
+      ▶ Linux system
+    </div>
+    <div class="accordion-body">
+      <div><strong>Step 1:</strong> Install <code>Wine</code> on your Linux system.</div>
+      <div>For Ubuntu <code>sudo apt update</code><br><code>sudo apt install wine</code></div>
+      <div>For Fedora <code>sudo dnf install wine</code></div>
+      <div><strong>Step 2:</strong> Open terminal and navigate to the folder where the Flash Player is downloaded.</div>
+      <div><strong>Step 3:</strong> Open the Flash Player using <code>wine flashplayer.exe</code>.<br><img src="images/figure1.jpg" alt="Flash Debugger"></div>
+      <div><strong>Step 4:</strong> Copy the Flash content link by clicking the 📋 icon provided above.</div>
+      <div><strong>Step 5:</strong> Click <em>File → Open</em> from the Flash Player menu.</div>
+      <div><strong>Step 6:</strong> Paste the Flash content link in the Open window of the Flash Player and click OK.<br><img src="images/figure2.jpg" alt="Open Flash Link"></div>
+    </div>
+  </div>
+</div>
+
 
 	<!-- Add JS at the bottom of HTML file --> 
         <script src="./js/main.js"></script>
