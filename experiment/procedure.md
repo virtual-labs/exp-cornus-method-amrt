@@ -1,6 +1,6 @@
 
 
-## Apparatus
+### Apparatus
 
 - Sodium vapor lamp  
 - Transparent beam  
@@ -11,7 +11,7 @@
 - Weight holders  
 - Mirror  
 
-## Experimental Set Up
+### Experimental Set Up
 
 
 <div style="float: right; margin-left: 20px;"> <img src="./images/figure3.jpg" alt="Figure 3" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
@@ -21,9 +21,9 @@ Consider a rectangular Perspex beam of length `L`, breadth `a`, and thickness `b
 
 ## Procedure
 
-### 1. Real Lab
+## 1. Real Lab
 
-#### To Find the Diameter of Rings Without Mass
+### To Find the Diameter of Rings Without Mass
 
 1. Place the given Perspex beam symmetrically over the two knife edges.  
 2. A convex lens is placed over the beam.  
@@ -36,7 +36,7 @@ Consider a rectangular Perspex beam of length `L`, breadth `a`, and thickness `b
 9. Now repeat the same procedure by moving the cross wire up and down on either side of the center position.
 
 
-## Diameter of Rings With Mass
+### Diameter of Rings With Mass
 
 1. Adjust the distance between the weight hanger and the knife edges.  
 2. Add mass on the weight hanger.  
