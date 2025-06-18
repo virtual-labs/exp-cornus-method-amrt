@@ -1,36 +1,36 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "Which among the following is not regarded as an elastic constant of a material?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Young's Modulus",
+        "b": "Rigidity Modulus",
+        "c": "Refractive index",
+        "d": "Poisson's Ratio"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Young's Modulus is an elastic constant.",
+        "b": "Rigidity Modulus is an elastic constant.",
+        "c": "Correct. Refractive index is related to optics, not elasticity.",
+        "d": "Poisson's Ratio is an elastic constant."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Young's Modulus has:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Unit of Force",
+        "b": "No unit",
+        "c": "Unit of Pressure",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. Force has different units (Newtons).",
+        "b": "Incorrect. Young's Modulus has a unit.",
+        "c": "Correct. Young's Modulus is measured in Pascals (N/m²).",
+        "d": "Incorrect."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
