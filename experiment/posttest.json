@@ -1,38 +1,55 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "If we stretch a wire, the amount it stretches depends upon?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diameter",
+        "b": "The material it is made of",
+        "c": "All the above",
+        "d": "Length"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Stretch depends on diameter.",
+        "b": "Material also affects stretch (via Young's modulus).",
+        "c": "Correct. All these factors influence stretching.",
+        "d": "Length is also a factor."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The coefficient of elasticity for a shearing force is known as?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Young's Modulus",
+        "b": "None of these",
+        "c": "Rigidity Modulus",
+        "d": "Poisson's Ratio"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Young's Modulus applies to longitudinal stress.",
+        "b": "Incorrect.",
+        "c": "Correct. Rigidity Modulus (or Shear Modulus) relates to shear.",
+        "d": "Poisson's Ratio is a different elastic constant."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the unit of transverse to longitudinal strain of a loaded specimen?",
+      "answers": {
+        "a": "Nm⁻²",
+        "b": "No unit",
+        "c": "Pascal",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect. Nm⁻² is a unit of pressure.",
+        "b": "Correct. Strain is a ratio, so it is dimensionless.",
+        "c": "Incorrect. Pascal is for pressure.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

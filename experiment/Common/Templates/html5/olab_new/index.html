@@ -1,0 +1,296 @@
+<!--
+Developed under a Research grant from NMEICT, MHRD 
+by 
+Amrita CREATE (Center for Research in Advanced Technologies for Education), 
+VALUE (Virtual Amrita Laboratories Universalizing Education)
+Amrita University, India 2009 - 2013
+http://www.amrita.edu/create
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>index</title>
+<script>
+
+ function getValue( name ) {
+   
+  name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var results = regex.exec( window.location.href );
+  if( results != null )
+    return results[1];
+  else
+    return false;
+  }
+
+  var URL_param = getValue( 'videoID' );
+  
+ var title = decodeURI(getValue('title' )); 
+ 
+  var lan = getValue( 'lan' );
+  
+  var lanStr= "?hl="+lan+"&cc_lang_pref=fr&cc_load_policy=1";
+ 
+ /* if (lan=="fr-FR") {
+	  lanStr= "&hl=fr&cc_lang_pref=fr&cc_load_policy=1";	  	 
+  }else{
+	   lanStr= "";
+  }*/
+
+/* if(title=="1"){
+	  title="Separating Components of a Mixture";
+  } else if(title=="2"){
+	  title="Properties of Acids and Bases";
+  }else if(title=="3"){
+	  title="Properties of Acetic Acid";
+  } else if(title=="4"){
+	  title="Laws of Reflection of Sound";
+  }else if(title=="5"){
+	  title="Determination of Density of Solid";
+  } 
+  else if(title=="6"){
+	  title="Action of Water on Quick Lime";
+  } 
+   else if(title=="7"){
+	  title="Decomposition Reaction";
+  } 
+   else if(title=="8"){
+	  title="Chemical Reactions";
+  } 
+     else if(title=="9"){
+	  title="Bell Jar Experiment";
+  } 
+    else if(title=="10"){
+	  title="Pressure Exerted by a Solid Iron Cuboid on Sand";
+  } 
+      else if(title=="11"){
+	  title="Verification of Archimedes' Principle";
+  }
+    else if(title=="12"){
+	  title="Determination of Density of Solid";
+  } 
+    else if(title=="13"){
+	  title="Relative Reactivity of Metals";
+  } 
+   else if(title=="14"){
+	  title="Distinguish Between Mixture and Compound ";
+  } 
+    else if(title=="15"){
+	  title="Equivalent Resistance of Resistors in Series";
+  } 
+	
+	  else if(title=="16"){
+	  title="Equivalent Resistance of Resistors in Parallel";
+  } 
+     else if(title=="17"){
+	  title="Verification of Newton's Second Law";
+  } 
+    else if(title=="18"){
+	  title="Melting Point of Ice";
+  } 
+   else if(title=="19"){
+	  title="Boiling Point of Water";
+  } 
+    else if(title=="20"){
+	  title="Single Displacement Reaction";
+  } 
+     else if(title=="21"){
+	  title="Double Displacement Reaction";
+  } 
+	  else if(title=="22"){
+	  title="pH Determination";
+  } 
+    else if(title=="23"){
+	  title="Distinguishing Between Solutions";
+  } 
+   else if(title=="24"){
+	  title="Separation of Mixtures Using Different Techniques";
+  } 
+  else if(title=="25"){
+	  title="Velocity of a Pulse Propagated Through a Slinky";
+  } 
+  else if(title=="26"){
+	  title="The Law of Conservation of Mass";
+  } 
+   else if(title=="27"){
+	  title="Saponification-The process of Making Soap";
+  } 
+   else if(title=="28"){
+	  title="Cleaning Capacity of Soap";
+  } 
+    else if(title=="29"){
+	  title="Detection of Adulterant in Dal";
+  } 
+   else if(title=="30"){
+	  title="Detection of Starch in Food Samples";
+  } 
+   else if(title=="31"){
+	  title="Imbibition by Raisins";
+  } else if(title=="32"){
+	  title="Importance of Light in Photosynthesis";
+  } else if(title=="33"){
+	  title="Demonstration of Stomata on a Leaf Peel";
+  } else if(title=="34"){
+	  title="Onion and Cheek Cells";
+  } else if(title=="35"){
+	  title="Plant and Animal Tissues";
+  } else if(title=="36"){
+	  title="Asexual Reproduction in Amoeba and Yeast";
+  }else if(title=="37"){
+	  title="Embryo of Dicot Seeds";
+  }else if(title=="38"){
+	  title="Life Cycle of a Mosquito";
+  }else if(title=="39"){
+	  title="Force Required to Move a Wooden Block";
+  }else if(title=="40"){
+	  title="Separation of Components of a Mixture";
+  }else if(title=="41"){
+	  title="Newton's Third Law of Motion";
+  }else if(title=="42"){
+	  title="Role of Carbon dioxide During Respiration";
+  }else if(title=="43"){
+	  title="To determine the mass of an object using a beam balance";
+  }else if(title=="44"){
+    title="Boiling Point of an Organic Compound";
+  } else if(title=="45"){
+	  title="Spherometer";
+  }else if(title=="46"){
+	  title="Quantitative Estimation";
+  }else if(title=="47"){
+	  title="Chemical Equilibrium";
+  }else if(title=="48"){
+	  title="Ohm's Law";
+  }else if(title=="49"){
+	  title="Rate of Transpiration";
+  }else if(title=="50"){
+	  title="Study of Osmosis";
+  }else if(title=="51"){
+	  title="Qualitative Analysis of Proteins";
+  }else if(title=="52"){
+	  title="Determination of Emf of a Cell";
+  }else if(title=="53"){
+	  title="Friction";
+  }else if(title=="54"){
+	  title="Parallelogram Law of Vectors";
+  }else if(title=="55"){
+	  title="Melting Point of an Organic Compound";
+  }else if(title=="56"){
+	  title="Purification of Impure Samples by Crystallization";
+  }else if(title=="57"){
+	  title="Study of Pollen Germination";
+  }else if(title=="58"){
+	  title="Paper Chromatography";
+  }else if(title=="59"){
+	  title="Vernier Callipers";
+  }else if(title=="60"){
+    title="Study of Plasmolysis";
+  }else if(title=="61"){
+    title="Detection of Elements: Lassaigne’s Test";
+  } else if(title=="62"){
+    title="Paper Chromatography";
+  }else if(title=="63"){
+    title="Viscosity";
+  }else if(title=="64"){
+    title="Helical Spring";
+  }else if(title=="65"){
+    title="Simple Pendulum";
+  }else if(title=="66"){
+    title="Detection of Urea in Urine";
+  }else if(title=="67"){
+    title="Inclined Plane";
+  }
+  else if(title=="68"){
+    title="Effectiveness of Different Common Oils in Forming Emulsions";
+  }else if(title=="69"){
+    title="Basic Laboratory Techniques";
+  }else if(title=="70"){
+    title="Boyle's Law";
+  }else if(title=="71"){
+    title="Detection of Albumin in Urine";
+  }else if(title=="72"){
+    title="Detection of Bile Salt in Urine";
+  }else if(title=="73"){
+    title="Screw Gauge";
+  }else if(title=="74"){
+    title="Kinetics Study on the Reaction between Iodide Ions and Hydrogen Peroxide";
+  }else if(title=="75"){
+    title="Characteristics of Dicot and Monocot Stem and Root";
+  }else if(title=="76"){
+    title="Kinetics Study on the Reaction between Potassium Iodate and Sodium Sulphite";
+  }else if(title=="77"){
+    title="Preparation of Inorganic Compounds";
+  }else if(title=="78"){
+    title="Detection of Sugar in Urine";
+  }else if(title=="79"){
+    title="Study of Stomatal Distribution on Leaves";
+  }else if(title=="80"){
+    title="Combination Reaction";
+  }else if(title=="81"){
+    title="Studies on Turbidity, pH and Microbial Presence in Water";
+  }else if(title=="82"){
+    title="Young's Modulus";
+  }else if(title=="83"){
+    title="Qualitative analysis of carbohydrates";
+  }else if(title=="84"){
+    title="Qualitative Analysis of Oils and Fats";
+  }else if(title=="85"){
+    title="Refraction Through a Glass Slab";
+  }else if(title=="86"){
+    title="Determination of Focal Length";
+  }else if(title=="87"){
+    title="Determination of Concentration of KMnO4 Solution";
+  }else if(title=="88"){
+    title="Preparation of Organic Compounds";
+  }else if(title=="89"){
+    title="Surface Tension";
+  } */
+
+	function init() {
+      var canvas = document.getElementById("canvas");
+      var ctx = canvas.getContext("2d");
+      draw(ctx);
+	   var canvas = document.getElementById("canvas2");
+      var ctx2 = canvas.getContext("2d");
+
+      draw2(ctx2);
+    }
+
+    function draw(ctx) {
+
+      // layer1/Linked File
+      ctx.save();
+      ctx.save();
+      ctx.transform(1.000, 0.000, 0.000, 1.000, 400.0, 300.0);
+      ctx.drawImage(document.getElementById("image1"), -400.0, -300.0);
+      ctx.restore();
+      ctx.restore();
+    }
+	 function draw2(ctx2) {
+      // layer1/Separating components of a mixture sublimation
+      ctx2.save();
+      if(getValue( 'title' )=="74" || getValue( 'title' )=="76"){
+        ctx2.font = "Bold 20.0px 'Times New Roman'";
+      }else {
+        ctx2.font = "Bold 25.0px 'Times New Roman'";
+      }
+      ctx2.fillStyle = "rgb(252, 215, 160)";
+      ctx2.fillText(title, 0.0, 24.9);
+      ctx2.restore();
+    }
+	
+	
+	
+  </script>
+</head>
+<body onLoad="init()">
+<canvas id="canvas" width="800" height="600"></canvas>
+<canvas id="canvas2" style="position:absolute; left:30px; top:15px;  z-index:3;" width="690" height="35"></canvas>
+<img alt="Linked File" id="image1" style="display: none" src="olab_temp.jpg" />
+<script language="javascript" >
+//alert("<iframe  style=\"position:absolute; left:30px; top:60px;  z-index:2;\" width=\"760\" height=\"427.5\" src=\"http:\/\/www.youtube.com\/embed\/"+URL_param+lanStr+"&rel=0?controls=0&autoplay=0&showinfo=0&iv_load_policy=3\"  frameborder=\"0\" allowfullscreen><\/iframe>");
+document.write("<iframe  style=\"position:absolute; left:30px; top:60px;  z-index:2;\" width=\"760\" height=\"427.5\" src=\"http:\/\/www.youtube.com\/embed\/"+URL_param+lanStr+"&rel=0&controls=1&autoplay=0&showinfo=0&iv_load_policy=3\"  frameborder=\"0\" allowfullscreen><\/iframe>");
+</script>
+</body>
+</html>
