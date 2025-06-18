@@ -38,7 +38,7 @@ The ratio between these two quantities is the Poisson's ratio and is given by
 
 $$\sigma =\frac{R_1}{R_2}...............(3)$$
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure2a.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 The longitudinal bending R1 can be found out using the equation,
 
