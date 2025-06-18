@@ -14,7 +14,7 @@
 ### Experimental Set Up
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure3.jpg" alt="Figure 3" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 
 Consider a rectangular Perspex beam of length `L`, breadth `a`, and thickness `b`. A plano-convex lens is placed over the beam. Weight hangers are placed at both ends, where mass can be added. Knife edges are positioned at a distance `l` from both weight hangers. A light source is used to illuminate the arrangement.
@@ -42,7 +42,7 @@ Consider a rectangular Perspex beam of length `L`, breadth `a`, and thickness `b
 2. Add mass on the weight hanger.  
 3. Repeat steps 4–9 to measure the horizontal and vertical position of rings.
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 ## 2. Simulator
 
