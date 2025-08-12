@@ -1,0 +1,300 @@
+
+/home/runner/work/exp-cornus-method-amrt/exp-cornus-method-amrt/experiment/Common/HighCharts/data.js
+   9:38   warning  'HighchartsAdapter' is not defined                                         no-undef
+  10:492  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14:76   warning  'jQuery' is not defined                                                    no-undef
+  14:285  warning  'a' is already defined                                                     no-redeclare
+  16:67   warning  'q' is already defined                                                     no-redeclare
+  17:431  warning  Unnecessary escape character: \-                                           no-useless-escape
+  17:433  warning  Unnecessary escape character: \/                                           no-useless-escape
+  17:435  warning  Unnecessary escape character: \.                                           no-useless-escape
+  17:449  warning  Unnecessary escape character: \-                                           no-useless-escape
+  17:451  warning  Unnecessary escape character: \/                                           no-useless-escape
+  17:453  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:52   warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:54   warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:56   warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:72   warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:74   warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:76   warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:209  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:211  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:213  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:229  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:231  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:233  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:339  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:341  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:343  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:359  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:361  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:363  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:496  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:498  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:500  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:516  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:518  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:520  warning  Unnecessary escape character: \.                                           no-useless-escape
+  23:350  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  26:53   warning  'Highcharts' is not defined                                                no-undef
+
+/home/runner/work/exp-cornus-method-amrt/exp-cornus-method-amrt/experiment/Common/HighCharts/exportcsv.js
+   8:22  warning  'window' is already defined as a built-in global variable                  no-redeclare
+   8:30  warning  'document' is already defined as a built-in global variable                no-redeclare
+   8:40  warning  'Blob' is already defined as a built-in global variable                    no-redeclare
+  86:22  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+
+/home/runner/work/exp-cornus-method-amrt/exp-cornus-method-amrt/experiment/Common/HighCharts/exporting.js
+  11:479  warning  'b' is already defined                                           no-redeclare
+  13:485  warning  'f' is already defined                                           no-redeclare
+  14:481  warning  Unnecessary escape character: \.                                 no-useless-escape
+  15:507  warning  'b' is already defined                                           no-redeclare
+  16:32   warning  'd' is already defined                                           no-redeclare
+  16:191  warning  'b' is already defined                                           no-redeclare
+  20:247  warning  'n' is already defined                                           no-redeclare
+  21:508  warning  'b' is already defined                                           no-redeclare
+  22:58   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  23:101  warning  'Highcharts' is not defined                                      no-undef
+
+/home/runner/work/exp-cornus-method-amrt/exp-cornus-method-amrt/experiment/Common/HighCharts/highcharts.js
+    8:116  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   11:181  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   11:327  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   11:453  warning  'c' is already defined                                                     no-redeclare
+   17:429  warning  'a' is already defined                                                     no-redeclare
+   18:43   warning  'd' is already defined                                                     no-redeclare
+   19:88   warning  'a' is already defined                                                     no-redeclare
+   19:169  warning  'b' is already defined                                                     no-redeclare
+   19:199  warning  'd' is already defined                                                     no-redeclare
+   19:229  warning  'e' is already defined                                                     no-redeclare
+   19:242  warning  'c' is already defined                                                     no-redeclare
+   19:442  warning  'b' is already defined                                                     no-redeclare
+   19:490  warning  'b' is already defined                                                     no-redeclare
+   20:1    warning  'c' is already defined                                                     no-redeclare
+   21:482  warning  'a' is already defined                                                     no-redeclare
+   32:429  warning  'U' is already defined                                                     no-redeclare
+   33:221  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   33:284  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   37:484  warning  'a' is already defined                                                     no-redeclare
+   47:20   warning  Empty block statement                                                      no-empty
+   51:93   warning  Unnecessary escape character: \-                                           no-useless-escape
+   51:98   warning  Unnecessary escape character: \.                                           no-useless-escape
+   51:298  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   53:401  warning  'c' is already defined                                                     no-redeclare
+   56:3    warning  'd' is already defined                                                     no-redeclare
+   56:316  warning  Unnecessary escape character: \(                                           no-useless-escape
+   56:319  warning  Unnecessary escape character: \)                                           no-useless-escape
+   60:182  warning  'e' is already defined                                                     no-redeclare
+   61:242  warning  'n' is already defined                                                     no-redeclare
+   61:258  warning  Unnecessary escape character: \^                                           no-useless-escape
+   62:214  warning  'w' is assigned a value but never used                                     no-unused-vars
+   63:236  warning  'a' is already defined                                                     no-redeclare
+   63:260  warning  'e' is already defined                                                     no-redeclare
+   64:392  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   66:182  warning  'e' is already defined                                                     no-redeclare
+   66:225  warning  'a' is already defined                                                     no-redeclare
+   67:495  warning  'h' is already defined                                                     no-redeclare
+   69:441  warning  'c' is already defined                                                     no-redeclare
+   69:467  warning  'd' is already defined                                                     no-redeclare
+   70:8    warning  'g' is already defined                                                     no-redeclare
+   70:16   warning  'e' is already defined                                                     no-redeclare
+   70:213  warning  'e' is already defined                                                     no-redeclare
+   71:290  warning  'a' is already defined                                                     no-redeclare
+   72:323  warning  'a' is already defined                                                     no-redeclare
+   74:109  warning  'a' is already defined                                                     no-redeclare
+   76:252  warning  'a' is already defined                                                     no-redeclare
+   77:111  warning  'j' is a function                                                          no-func-assign
+   77:113  warning  'k' is a function                                                          no-func-assign
+   77:115  warning  'm' is a function                                                          no-func-assign
+   77:190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   79:215  warning  Unnecessary escape character: \-                                           no-useless-escape
+   81:333  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   83:297  warning  'd' is already defined                                                     no-redeclare
+   86:322  warning  'a' is already defined                                                     no-redeclare
+   88:403  warning  'a' is already defined                                                     no-redeclare
+   92:380  warning  'a' is already defined                                                     no-redeclare
+   92:444  warning  'b' is already defined                                                     no-redeclare
+   92:475  warning  'd' is already defined                                                     no-redeclare
+   93:385  warning  'a' is already defined                                                     no-redeclare
+   94:428  warning  'j' is already defined                                                     no-redeclare
+   94:482  warning  'j' is already defined                                                     no-redeclare
+   96:1    warning  'a' is already defined                                                     no-redeclare
+   98:195  warning  'c' is already defined                                                     no-redeclare
+   98:206  warning  'd' is already defined                                                     no-redeclare
+  100:321  warning  'e' is already defined                                                     no-redeclare
+  100:342  warning  'd' is already defined                                                     no-redeclare
+  100:355  warning  'h' is already defined                                                     no-redeclare
+  101:480  warning  'e' is already defined                                                     no-redeclare
+  103:441  warning  'c' is already defined                                                     no-redeclare
+  103:493  warning  'a' is already defined                                                     no-redeclare
+  104:23   warning  'b' is already defined                                                     no-redeclare
+  104:461  warning  'l' is already defined                                                     no-redeclare
+  105:28   warning  'n' is already defined                                                     no-redeclare
+  105:107  warning  'r' is already defined                                                     no-redeclare
+  105:154  warning  'c' is already defined                                                     no-redeclare
+  112:278  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  114:127  warning  'd' is already defined                                                     no-redeclare
+  115:381  warning  'a' is already defined                                                     no-redeclare
+  117:396  warning  'd' is already defined                                                     no-redeclare
+  117:435  warning  'e' is already defined                                                     no-redeclare
+  119:95   warning  'e' is already defined                                                     no-redeclare
+  119:132  warning  'a' is already defined                                                     no-redeclare
+  120:151  warning  'f' is already defined                                                     no-redeclare
+  121:161  warning  'j' is assigned a value but never used                                     no-unused-vars
+  130:246  warning  'd' is already defined                                                     no-redeclare
+  132:451  warning  'c' is already defined                                                     no-redeclare
+  133:195  warning  'e' is already defined                                                     no-redeclare
+  134:36   warning  'b' is already defined                                                     no-redeclare
+  134:61   warning  'c' is already defined                                                     no-redeclare
+  135:69   warning  'b' is already defined                                                     no-redeclare
+  137:184  warning  'g' is already defined                                                     no-redeclare
+  137:235  warning  'h' is already defined                                                     no-redeclare
+  139:376  warning  'b' is already defined                                                     no-redeclare
+  142:309  warning  'd' is already defined                                                     no-redeclare
+  143:149  warning  'd' is already defined                                                     no-redeclare
+  143:204  warning  'b' is already defined                                                     no-redeclare
+  152:243  warning  'd' is already defined                                                     no-redeclare
+  154:303  warning  'f' is already defined                                                     no-redeclare
+  154:320  warning  'e' is already defined                                                     no-redeclare
+  158:51   warning  'a' is already defined                                                     no-redeclare
+  160:475  warning  'i' is already defined                                                     no-redeclare
+  162:330  warning  'c' is already defined                                                     no-redeclare
+  163:1    warning  'b' is already defined                                                     no-redeclare
+  164:90   warning  'c' is already defined                                                     no-redeclare
+  165:48   warning  'c' is already defined                                                     no-redeclare
+  165:451  warning  'a' is already defined                                                     no-redeclare
+  165:469  warning  'a' is already defined                                                     no-redeclare
+  173:344  warning  'f' is already defined                                                     no-redeclare
+  174:433  warning  'a' is already defined                                                     no-redeclare
+  175:490  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  176:385  warning  'a' is already defined                                                     no-redeclare
+  179:279  warning  'c' is already defined                                                     no-redeclare
+  181:255  warning  'e' is already defined                                                     no-redeclare
+  183:99   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  187:1    warning  'c' is already defined                                                     no-redeclare
+  187:62   warning  'g' is already defined                                                     no-redeclare
+  187:318  warning  'b' is already defined                                                     no-redeclare
+  187:353  warning  'd' is already defined                                                     no-redeclare
+  190:345  warning  'u' is already defined                                                     no-redeclare
+  196:157  warning  'f' is already defined                                                     no-redeclare
+  198:435  warning  'g' is already defined                                                     no-redeclare
+  200:274  warning  'a' is already defined                                                     no-redeclare
+  203:55   warning  'a' is already defined                                                     no-redeclare
+  206:5    warning  'b' is already defined                                                     no-redeclare
+  207:44   warning  'a' is already defined                                                     no-redeclare
+  207:330  warning  'e' is already defined                                                     no-redeclare
+  208:423  warning  'a' is already defined                                                     no-redeclare
+  213:114  warning  'c' is already defined                                                     no-redeclare
+  213:129  warning  'd' is already defined                                                     no-redeclare
+  225:226  warning  'c' is already defined                                                     no-redeclare
+  225:463  warning  'b' is already defined                                                     no-redeclare
+  225:493  warning  'e' is already defined                                                     no-redeclare
+  227:98   warning  'a' is already defined                                                     no-redeclare
+  233:460  warning  'b' is already defined                                                     no-redeclare
+  235:1    warning  'b' is already defined                                                     no-redeclare
+  237:279  warning  'a' is already defined                                                     no-redeclare
+  242:170  warning  'a' is already defined                                                     no-redeclare
+  242:416  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  243:322  warning  'a' is already defined                                                     no-redeclare
+  248:286  warning  'a' is already defined                                                     no-redeclare
+  248:294  warning  'b' is already defined                                                     no-redeclare
+  248:302  warning  'c' is already defined                                                     no-redeclare
+  248:310  warning  'd' is already defined                                                     no-redeclare
+  251:93   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  251:448  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  260:327  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  262:382  warning  'c' is already defined                                                     no-redeclare
+  263:188  warning  'f' is already defined                                                     no-redeclare
+  263:285  warning  'c' is already defined                                                     no-redeclare
+  263:302  warning  'c' is already defined                                                     no-redeclare
+  263:359  warning  'f' is already defined                                                     no-redeclare
+  263:427  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  266:485  warning  'e' is already defined                                                     no-redeclare
+  267:148  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  272:26   warning  'b' is already defined                                                     no-redeclare
+  272:331  warning  'h' is already defined                                                     no-redeclare
+  274:353  warning  'a' is already defined                                                     no-redeclare
+  276:21   warning  'a' is already defined                                                     no-redeclare
+  278:46   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  280:377  warning  'g' is already defined                                                     no-redeclare
+  284:134  warning  'b' is already defined                                                     no-redeclare
+  285:289  warning  'h' is already defined                                                     no-redeclare
+  290:474  warning  'b' is already defined                                                     no-redeclare
+  294:329  warning  'i' is already defined                                                     no-redeclare
+  294:422  warning  'c' is already defined                                                     no-redeclare
+  307:200  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  309:473  warning  'HighchartsAdapter' is not defined                                         no-undef
+  310:425  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  313:265  warning  'k' is already defined                                                     no-redeclare
+  315:392  warning  'b' is already defined                                                     no-redeclare
+  318:400  warning  'j' is already defined                                                     no-redeclare
+  318:452  warning  'i' is already defined                                                     no-redeclare
+  319:228  warning  'a' is already defined                                                     no-redeclare
+  321:423  warning  'a' is already defined                                                     no-redeclare
+  325:39   warning  'b' is already defined                                                     no-redeclare
+  325:43   warning  'a' is already defined                                                     no-redeclare
+  325:387  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+
+/home/runner/work/exp-cornus-method-amrt/exp-cornus-method-amrt/experiment/Common/HighCharts/jquery-1.11.2.min.js
+  2:58     warning  'module' is not defined                                                    no-undef
+  2:73     warning  'module' is not defined                                                    no-undef
+  2:6389   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6622   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7072   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7304   warning  Empty block statement                                                      no-empty
+  2:7869   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9753   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11309  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11885  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11923  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12327  warning  Empty block statement                                                      no-empty
+  2:12890  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13202  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15025  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15263  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15411  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15749  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16454  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18840  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18929  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18989  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20255  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20830  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20938  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22957  warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:22959  warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:30650  warning  Empty block statement                                                      no-empty
+  2:31892  warning  Empty block statement                                                      no-empty
+  3:4950   warning  Empty block statement                                                      no-empty
+  3:7951   warning  Empty block statement                                                      no-empty
+  3:10571  warning  Empty block statement                                                      no-empty
+  3:19860  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:19987  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:22132  warning  Empty block statement                                                      no-empty
+  3:26318  warning  Move function declaration to function body root                            no-inner-declarations
+  3:30101  warning  Empty block statement                                                      no-empty
+  4:2091   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:4545   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:10638  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:12534  warning  Empty block statement                                                      no-empty
+  4:13833  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14277  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14691  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:15794  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16285  warning  'ActiveXObject' is not defined                                             no-undef
+  4:16669  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16681  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16980  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:19469  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:21369  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:26181  warning  Empty block statement                                                      no-empty
+  4:26258  warning  Empty block statement                                                      no-empty
+  4:31572  warning  'define' is not defined                                                    no-undef
+  4:31584  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-cornus-method-amrt/exp-cornus-method-amrt/experiment/simulation/js/main.js
+   2:10  warning  'copyLink' is defined but never used         no-unused-vars
+  12:10  warning  'toggleAccordion' is defined but never used  no-unused-vars
+
+✖ 285 problems (0 errors, 285 warnings)
+

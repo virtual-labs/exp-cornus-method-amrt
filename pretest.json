@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "Which among the following is not regarded as an elastic constant of a material?",
+      "answers": {
+        "a": "Young's Modulus",
+        "b": "Rigidity Modulus",
+        "c": "Refractive index",
+        "d": "Poisson's Ratio"
+      },
+      "explanations": {
+        "a": "Young's Modulus is an elastic constant.",
+        "b": "Rigidity Modulus is an elastic constant.",
+        "c": "Correct. Refractive index is related to optics, not elasticity.",
+        "d": "Poisson's Ratio is an elastic constant."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Young's Modulus has:",
+      "answers": {
+        "a": "Unit of Force",
+        "b": "No unit",
+        "c": "Unit of Pressure",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect. Force has different units (Newtons).",
+        "b": "Incorrect. Young's Modulus has a unit.",
+        "c": "Correct. Young's Modulus is measured in Pascals (N/m²).",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If we stretch a wire, the amount it stretches depends upon?",
+      "answers": {
+        "a": "Diameter",
+        "b": "The material it is made of",
+        "c": "All the above",
+        "d": "Length"
+      },
+      "explanations": {
+        "a": "Stretch depends on diameter.",
+        "b": "Material also affects stretch (via Young's modulus).",
+        "c": "Correct. All these factors influence stretching.",
+        "d": "Length is also a factor."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The coefficient of elasticity for a shearing force is known as?",
+      "answers": {
+        "a": "Young's Modulus",
+        "b": "None of these",
+        "c": "Rigidity Modulus",
+        "d": "Poisson's Ratio"
+      },
+      "explanations": {
+        "a": "Young's Modulus applies to longitudinal stress.",
+        "b": "Incorrect.",
+        "c": "Correct. Rigidity Modulus (or Shear Modulus) relates to shear.",
+        "d": "Poisson's Ratio is a different elastic constant."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the unit of transverse to longitudinal strain of a loaded specimen?",
+      "answers": {
+        "a": "Nm⁻²",
+        "b": "No unit",
+        "c": "Pascal",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect. Nm⁻² is a unit of pressure.",
+        "b": "Correct. Strain is a ratio, so it is dimensionless.",
+        "c": "Incorrect. Pascal is for pressure.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
